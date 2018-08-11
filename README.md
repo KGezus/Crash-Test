@@ -6,13 +6,13 @@
     <title>Crash Test HTML</title>
   </head> 
   <body>
-    <p> What I have learned so far about HTML is:
+    <h1>HTML Basics</h1>
+      <p>What I have learned so far about HTML is:</p>
     <ul>
       <li> What an element is </li>
       <li> How to open and close <b> tags </b> <li>
       <li> What a body and a head is <li>
       <li> What the purpose of the meta charset utf-8 and doctype is </li>
     </ul>
-    </p>
   </body>
 </html>
