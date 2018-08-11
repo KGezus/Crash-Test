@@ -3,9 +3,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title> 
-      Crash Test HTML 
-    </title>
+    <title>Crash Test HTML</title>
   </head> 
   <body>
     <p> What I have learned so far about HTML is:
